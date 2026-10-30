@@ -1,0 +1,170 @@
+{
+ "10.1007/BF00648343": {
+  "ok": true,
+  "title": "Least-squares frequency analysis of unequally spaced data",
+  "year": 1976,
+  "container": "Astrophysics and Space Science"
+ },
+ "10.1016/S0001-6918(00)00019-6": {
+  "ok": true,
+  "title": "Mean response times, variability, and skew in the responding of ADHD children: a response time distributional approach",
+  "year": 2000,
+  "container": "Acta Psychologica"
+ },
+ "10.1016/j.biopsych.2004.12.005": {
+  "ok": true,
+  "title": "Varieties of Attention-Deficit/Hyperactivity Disorder-Related Intra-Individual Variability",
+  "year": 2005,
+  "container": "Biological Psychiatry"
+ },
+ "10.1016/j.biopsych.2010.07.031": {
+  "ok": true,
+  "title": "Basic Impairments in Regulating the Speed-Accuracy Tradeoff Predict Symptoms of Attention-Deficit/Hyperactivity Disorder",
+  "year": 2010,
+  "container": "Biological Psychiatry"
+ },
+ "10.1016/j.cpr.2013.06.001": {
+  "ok": true,
+  "title": "Reaction time variability in ADHD: A meta-analytic review of 319 studies",
+  "year": 2013,
+  "container": "Clinical Psychology Review"
+ },
+ "10.1016/j.jmp.2009.02.003": {
+  "ok": true,
+  "title": "Fast and accurate calculations for first-passage times in Wiener diffusion models",
+  "year": 2009,
+  "container": "Journal of Mathematical Psychology"
+ },
+ "10.1016/j.jmp.2014.05.002": {
+  "ok": true,
+  "title": "Even faster and even more accurate first-passage time densities and distributions for the Wiener diffusion model",
+  "year": 2014,
+  "container": "Journal of Mathematical Psychology"
+ },
+ "10.1016/j.neubiorev.2007.02.005": {
+  "ok": true,
+  "title": "Spontaneous attentional fluctuations in impaired states and pathological conditions: A neurobiological hypothesis",
+  "year": 2007,
+  "container": "Neuroscience &amp; Biobehavioral Reviews"
+ },
+ "10.1016/j.neubiorev.2016.09.002": {
+  "ok": true,
+  "title": "Modelling ADHD: A review of ADHD theories through their predictions for computational models of decision-making and reinforcement learning",
+  "year": 2016,
+  "container": "Neuroscience &amp; Biobehavioral Reviews"
+ },
+ "10.1016/j.neuroimage.2007.08.008": {
+  "ok": true,
+  "title": "Competition between functional brain networks mediates behavioral variability",
+  "year": 2008,
+  "container": "NeuroImage"
+ },
+ "10.1016/j.neuropsychologia.2009.01.022": {
+  "ok": true,
+  "title": "Increased intra-individual reaction time variability in attention-deficit/hyperactivity disorder across response inhibition tasks with different cognitive demands",
+  "year": 2009,
+  "container": "Neuropsychologia"
+ },
+ "10.1037/0033-2909.109.2.340": {
+  "ok": true,
+  "title": "Analysis of response time distributions: An example using the Stroop task.",
+  "year": 1991,
+  "container": "Psychological Bulletin"
+ },
+ "10.1037/0033-295X.85.2.59": {
+  "ok": true,
+  "title": "A theory of memory retrieval.",
+  "year": 1978,
+  "container": "Psychological Review"
+ },
+ "10.1037/a0027205": {
+  "ok": true,
+  "title": "Evaluating vigilance deficits in ADHD: A meta-analysis of CPT performance.",
+  "year": 2012,
+  "container": "Journal of Abnormal Psychology"
+ },
+ "10.1037/a0029936": {
+  "ok": true,
+  "title": "Decomposing attention-deficit/hyperactivity disorder (ADHD)-related effects in response speed and variability.",
+  "year": 2012,
+  "container": "Neuropsychology"
+ },
+ "10.1086/160554": {
+  "ok": true,
+  "title": "Studies in astronomical time series analysis. II - Statistical aspects of spectral analysis of unevenly spaced data",
+  "year": 1982,
+  "container": "The Astrophysical Journal"
+ },
+ "10.1109/TAU.1967.1161901": {
+  "ok": true,
+  "title": "The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms",
+  "year": 1967,
+  "container": "IEEE Transactions on Audio and Electroacoustics"
+ },
+ "10.1111/jcpp.12028": {
+  "ok": true,
+  "title": "Is reaction time variability in ADHD mainly at low frequencies?",
+  "year": 2012,
+  "container": "Journal of Child Psychology and Psychiatry"
+ },
+ "10.1111/jcpp.12217": {
+  "ok": true,
+  "title": "Annual Research Review: Reaction time variability in\n                    <scp>ADHD</scp>\n                    and autism spectrum disorders: measurement and mechanisms of a proposed trans\u2010diagnostic phenotype",
+  "year": 2014,
+  "container": "Journal of Child Psychology and Psychiatry"
+ },
+ "10.1145/3458305.3478454": {
+  "ok": true,
+  "title": "HYPERAKTIV",
+  "year": 2021,
+  "container": "Proceedings of the 12th ACM Multimedia Systems Conference"
+ },
+ "10.1162/neco.2008.12-06-420": {
+  "ok": true,
+  "title": "The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks",
+  "year": 2008,
+  "container": "Neural Computation"
+ },
+ "10.20982/tqmp.04.1.p035": {
+  "ok": true,
+  "title": "How to use MATLAB to fit the ex-Gaussian and other probability functions to a distribution of response times",
+  "year": 2008,
+  "container": "Tutorials in Quantitative Methods for Psychology"
+ },
+ "10.3389/fninf.2013.00014": {
+  "ok": true,
+  "title": "HDDM: Hierarchical Bayesian estimation of the Drift-Diffusion Model in Python",
+  "year": 2013,
+  "container": "Frontiers in Neuroinformatics"
+ },
+ "10.3758/BF03194023": {
+  "ok": true,
+  "title": "An EZ-diffusion model for response time and accuracy",
+  "year": 2007,
+  "container": "Psychonomic Bulletin &amp; Review"
+ },
+ "10.3758/BF03196302": {
+  "ok": true,
+  "title": "Estimating parameters of the diffusion model: Approaches to dealing with contaminant reaction times and parameter variability",
+  "year": 2002,
+  "container": "Psychonomic Bulletin &amp; Review"
+ },
+ "10.3758/PBR.16.5.798": {
+  "ok": true,
+  "title": "Psychological interpretation of the ex-Gaussian and shifted Wald parameters: A diffusion model analysis",
+  "year": 2009,
+  "container": "Psychonomic Bulletin &amp; Review"
+ },
+ "10.7554/eLife.49547": {
+  "ok": true,
+  "title": "Ten simple rules for the computational modeling of behavioral data",
+  "year": 2019,
+  "container": "eLife"
+ },
+ "10.7554/eLife.56938": {
+  "ok": true,
+  "title": "A flexible framework for simulating and fitting generalized drift-diffusion models",
+  "year": 2020,
+  "container": "eLife"
+ }
+}

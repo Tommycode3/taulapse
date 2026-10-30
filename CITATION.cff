@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and cite the datasets and methods papers listed in the README."
+title: "taulapse: ex-Gaussian, drift-diffusion and spectral models of reaction-time variability with recovery checks"
+type: software
+authors:
+  - family-names: Maggiolo
+    given-names: Tommaso
+    email: maggiolotommaso@gmail.com
+version: 0.1.0
+date-released: 2026-10-30
+license: MIT
+keywords:
+  - reaction time variability
+  - ADHD
+  - drift diffusion model
+  - ex-Gaussian
+  - parameter recovery
+  - computational psychiatry
+references:
+  - type: article
+    authors:
+      - family-names: Navarro
+        given-names: Daniel J.
+      - family-names: Fuss
+        given-names: Ian G.
+    title: "Fast and accurate calculations for first-passage times in Wiener diffusion models"
+    journal: "Journal of Mathematical Psychology"
+    year: 2009
+    doi: 10.1016/j.jmp.2009.02.003
+  - type: conference-paper
+    authors:
+      - family-names: Hicks
+        given-names: Steven A.
+    title: "HYPERAKTIV: An Activity Dataset from Patients with Attention-Deficit/Hyperactivity Disorder (ADHD)"
+    year: 2021
+    doi: 10.1145/3458305.3478454
