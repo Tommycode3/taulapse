@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/Tommycode3/taulapse/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
 
-Ex-Gaussian, drift-diffusion and spectral models of reaction-time variability, written from scratch in numpy/scipy, each checked by parameter recovery, model recovery and CI coverage on simulated data before being fit to real data. The motivation is ADHD, where the robust behavioural finding across 319 studies is variable responding, not slow responding ([Kofler et al. 2013](https://doi.org/10.1016/j.cpr.2013.06.001)). On adult CPT-II data the ADHD group has a heavier slow tail (median τ 95.8 vs 69.3 ms, Cliff's δ = +0.42) while its Gaussian component is faster.
+Ex-Gaussian, drift-diffusion and spectral models of reaction-time variability, written from scratch in numpy/scipy, each checked by parameter recovery, model recovery and CI coverage on simulated data before being fit to real data. The motivation is ADHD, where the most consistent behavioural finding across 319 studies is variable responding ([Kofler et al. 2013](https://doi.org/10.1016/j.cpr.2013.06.001)). On adult CPT-II data the ADHD group has a heavier slow tail (median τ 95.8 vs 69.3 ms, Cliff's δ = +0.42) while its Gaussian component is faster.
 
 <!-- TODO(Tommaso): dictate 3-4 lines in your own words -->
 
