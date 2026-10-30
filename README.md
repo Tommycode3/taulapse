@@ -291,8 +291,6 @@ pytest -q                   # 25 tests: normalisation, series agreement, Euler v
 
 `scripts/verify_dois.py` checks every DOI in this README against Crossref and writes the result to `results/dois.json`.
 
-## Why I built this
-
 <!-- TODO(Tommaso): dictate 3-4 lines in your own words -->
 
 ## References
